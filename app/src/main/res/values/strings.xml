@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nguyễn Văn Luyện</string>
+    <string name="Title">CACULATOR</string>
+    <string name="Nhap">Input Number</string>
+</resources>
